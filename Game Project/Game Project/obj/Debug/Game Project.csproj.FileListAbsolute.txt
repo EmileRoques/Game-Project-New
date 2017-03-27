@@ -1,0 +1,30 @@
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Game Project.exe.config
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Game Project.csprojResolveAssemblyReference.cache
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Game Project.csproj.Game Project.exe.config
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Project_Design.Form1.resources
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Project_Design.Form2.resources
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Project_Design.Form3.resources
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Project_Design.Form4.resources
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Properties.Resources.resources
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Game Project.csproj.GenerateResource.Cache
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Database.mdf
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Database_log.ldf
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Game Project.exe
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Game Project.pdb
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\VSLangProj.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\stdole.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\VSLangProj80.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\VSLangProj2.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\VSLangProj.xml
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\VSLangProj80.xml
+C:\Users\emile\Desktop\Game Project\Game Project\bin\Debug\VSLangProj2.xml
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Game Project.exe
+C:\Users\emile\Desktop\Game Project\Game Project\obj\Debug\Game Project.pdb
